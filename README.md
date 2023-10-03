@@ -1,15 +1,28 @@
-# businessapp
+# Business App - Task By Saman.com.pk
 
-A new Flutter project.
+This repository contains the source code for the task provided by Saman It is built using Flutter and requires Flutter SDK to run.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+You can follow these instructions to set up and run the project locally on your machine.
 
-A few resources to get you started if this is your first Flutter project:
+## Prerequisites:
+[Flutter SDK](https://flutter.dev/) installed on your machine
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+**Installation:**
+
+Clone the repository to your local machine:
+```git clone https://github.com/ahsanahmad4654/BusinessApp-Task.git```
+
+Navigate to the project directory:
+```cd BusinessApp-Task```
+
+Run the following command to fetch the dependencies:
+```flutter pub get```
+
+
+Run the following command to run the project:
+```flutter run```
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
